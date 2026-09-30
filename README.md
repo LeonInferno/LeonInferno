@@ -31,7 +31,7 @@
  
 | | Result | Hackathon | Project |
 |:---:|---|---|---|
-| 🥈 | **2nd Place** | Columbia DivHacks | [RentEscrow](https://devpost.com/software/rentescrow-nthfwb) |
+| 🥈 | **2nd Place** | Columbia DivHacks - Capital One Track | [RentEscrow](https://devpost.com/software/rentescrow-nthfwb) |
  
 ---
 
