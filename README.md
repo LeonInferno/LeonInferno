@@ -52,13 +52,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,git,github,linux,maven,vscode,idea&theme=dark" />
 </p>
-
----
-
-### 💼 Experience
-
-| Role | Where | When |
-|---|---|---|
-| IT Student Assistant | Stony Brook University, Dept. of Mathematics | Oct 2025 – Present |
-| Web Development Teaching Assistant | Digital Girl, Inc. | Jul 2024 – Aug 2024 |
-| IT Support Intern | Wright's Resumes and Connections | Apr 2024 – Jun 2024 |
