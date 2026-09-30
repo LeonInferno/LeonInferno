@@ -21,8 +21,6 @@
 
 - 🎓 **B.S. Information Systems** @ Stony Brook University — Class of 2029
 - 🛠️ **IT Student Assistant** @ SBU Dept. of Mathematics — run the Linux/Apache/MySQL stack behind Math Placement Exams for hundreds of students each semester
-- 🏆 Hackathon regular: **2nd Place in Capital One Track at Columbia DivHacks**, **Finalist at NYPL AI Hackathon**
-- 🧑‍🏫 Taught web development to students at Digital Girl, Inc.
 - 🎯 Looking for **Software Engineering internships**
 
 ---
