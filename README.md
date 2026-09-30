@@ -26,14 +26,13 @@
 - 🎯 Looking for **Software Engineering internships**
 
 ---
-
-### 🚀 Featured Projects
-
-| Project | What it does | Built with |
-|---|---|---|
-| **[RentEscrow](https://github.com/leoninferno/RentEscrow)** <br/>🥈 2nd Place in Capital One Track, Columbia DivHacks | Rent escrow on the XRP Ledger: verifies tenant bank accounts with 15 server-side checks, guards payouts with 35+ safety checks, and turns tenant–landlord iMessages into tracked repair events in under 3s | TypeScript · REST APIs · XRPL · Gemini API |
-| **[Streetwise](https://github.com/leoninferno/Streetwise)** <br/>🏅 Finalist, NYPL AI Hackathon | Real-time NYC safety scores built on 280+ live 311 complaint types, served from cache in 2–5ms, with AI explanations backed by 48 automated reliability tests | Next.js · Express · MongoDB · Supabase · Ollama |
-
+ 
+### 🏆 Hackathon Wins
+ 
+| | Result | Hackathon | Project |
+|:---:|---|---|---|
+| 🥈 | **2nd Place** | Columbia DivHacks | [RentEscrow](https://devpost.com/software/rentescrow-nthfwb) |
+ 
 ---
 
 ### 🛠️ Tech Stack
